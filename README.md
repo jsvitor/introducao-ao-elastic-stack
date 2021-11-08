@@ -2,7 +2,7 @@
 
 ![Elastic Stack](https://www.elastic.co/static-res/images/elk/elk-stack-elkb-diagram.svg)
 
-## Elastic Search
+## Elasticsearch
 > Engine de search and analytics
 > - Banco de dados Orientado a Documentos
 > - Engine de Busca
