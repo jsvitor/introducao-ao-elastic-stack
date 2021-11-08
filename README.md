@@ -57,3 +57,5 @@
 - https://www.elastic.co/pt/
 - https://www.elastic.co/pt/what-is/elk-stack
 - https://www.youtube.com/watch?v=Bb3g8xk0Cys
+- https://github.com/sherifabdlnaby/elastdocker
+- https://towardsdatascience.com/running-securing-and-deploying-elastic-stack-on-docker-f1a8ebf1dc5b
