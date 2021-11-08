@@ -49,6 +49,7 @@
 
 
 ## Referências:
-https://github.com/deviantony/docker-elk
-https://www.elastic.co/pt/
-https://www.elastic.co/pt/what-is/elk-stack
+- https://github.com/deviantony/docker-elk
+- https://www.elastic.co/pt/
+- https://www.elastic.co/pt/what-is/elk-stack
+- https://www.youtube.com/watch?v=Bb3g8xk0Cys
