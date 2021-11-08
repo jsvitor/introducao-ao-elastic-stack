@@ -26,7 +26,6 @@
 
 ## Kibana
 > Permite aos usuários a visualização dos dados do elasticsearch através de gráficos, etc.
-
 > - Ferramenta de visualização e exploração de dados
 > - Usado com: Logs, Análise de séries, Monitoramento de aplicações, e inteligência operacional
 > - Integrado com Elasticsearch
@@ -35,9 +34,8 @@
 > - Gráficos interativos
 > - Mapas
 
-Beats!
+## Beats!
 > Foi anunciado em 2015.
-
 > - "lightweight data shipper"
 > - Agente coletor de dados
 > - Integrado facilmente com Elasticsearch ou Logstash
