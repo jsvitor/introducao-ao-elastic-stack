@@ -1,6 +1,10 @@
-# Introducao ao Elastic Stack
+# Introdução ao Elastic Stack
 
-![Elastic Stack](https://www.elastic.co/static-res/images/elk/elk-stack-elkb-diagram.svg)
+<p align="center">
+  <img src="https://www.elastic.co/static-res/images/elk/elk-stack-elkb-diagram.svg"
+       alt="Elastic Stack"
+       style="float: left; align: center; width: 500px" />
+</p>
 
 ## Elasticsearch
 > Engine de search and analytics
