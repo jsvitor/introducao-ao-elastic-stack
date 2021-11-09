@@ -1,5 +1,7 @@
 # Introdução ao Elastic Stack
 
+> Sarch. Observe. Protect.
+
 <p align="center">
   <img src="https://www.elastic.co/static-res/images/elk/elk-stack-elkb-diagram.svg"
        alt="Elastic Stack"
@@ -15,6 +17,7 @@
 > - Escalável e distribuído
 > - API Rest
 
+### Elastic Search Indices
 
 ## Logstash
 > Processador de dados através de pipelines que consegue receber, transformar e enviar dados simultaneamente (incluindo ao elasticsearch)
