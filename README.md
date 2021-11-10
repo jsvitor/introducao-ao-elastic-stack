@@ -1,12 +1,15 @@
-# Introdução ao Elastic Stack
+# O Elastic Stack
 
 > Sarch. Observe. Protect.
 
 <p align="center">
   <img src="https://www.elastic.co/static-res/images/elk/elk-stack-elkb-diagram.svg"
        alt="Elastic Stack"
-       style="float: left; align: center; width: 500px" />
+       style="float: left; align: center; width: 300px" />
 </p>
+
+<details>
+    <summary>Overview das ferramentas</summary>
 
 ## Elasticsearch
 > Engine de search and analytics
@@ -54,6 +57,7 @@
 
 [Grok Patterns](https://github.com/hpcugent/logstash-patterns/blob/master/files/grok-patterns)
 
+</details>
 
 ## Referências:
 - https://github.com/deviantony/docker-elk
