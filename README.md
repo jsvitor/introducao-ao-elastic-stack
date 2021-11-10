@@ -8,11 +8,13 @@
        style="float: left; align: center; width: 300px" />
 </p>
 
-<details>
-    <summary>Overview das ferramentas</summary>
+
 
 ## Elasticsearch
 > Engine de search and analytics
+<details>
+    <summary>Características</summary>
+  
 > - Banco de dados Orientado a Documentos
 > - Engine de Busca
 > - Análise de dados
@@ -22,8 +24,14 @@
 
 ### Elastic Search Indices
 
+</details>
+
 ## Logstash
 > Processador de dados através de pipelines que consegue receber, transformar e enviar dados simultaneamente (incluindo ao elasticsearch)
+
+<details>
+    <summary>Características</summary>
+  
 > - Teve início como manipulador de logs
 > - Engine coletora de dados em tempo real
 > - Trabalha com pipelines
@@ -32,10 +40,15 @@
 > - Envia dados para múltiplas fontes
 > - Plugins
 
+</details>
 
 
 ## Kibana
 > Permite aos usuários a visualização dos dados do elasticsearch através de gráficos, etc.
+
+<details>
+    <summary>Características</summary>
+
 > - Ferramenta de visualização e exploração de dados
 > - Usado com: Logs, Análise de séries, Monitoramento de aplicações, e inteligência operacional
 > - Integrado com Elasticsearch
@@ -44,20 +57,28 @@
 > - Gráficos interativos
 > - Mapas
 
+</details>
+
 ## Beats!
-> Foi anunciado em 2015.
+> é uma plataforma gratuita e aberta para agentes de dados de finalidade única.
+
+<details>
+    <summary>Características</summary>
+  
 > - "lightweight data shipper"
 > - Agente coletor de dados
 > - Integrado facilmente com Elasticsearch ou Logstash
 > - Logs, Métricas, Network data, Audit Data, Uptime Monitoring
 > - Você pode construir seu próprio Beat
+</details>
 
 - [ ] Kibana
 - [ ] TSVB
 
 [Grok Patterns](https://github.com/hpcugent/logstash-patterns/blob/master/files/grok-patterns)
 
-</details>
+
+
 
 ## Referências:
 - https://github.com/deviantony/docker-elk
