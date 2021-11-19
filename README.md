@@ -8,7 +8,10 @@
        style="float: left; align: center; width: 300px" />
 </p>
 
-
+### Configuração do ambiente
+> Usei o [Play With Docker](https://labs.play-with-docker.com/) para instação das ferramentas do Elastic Stack.
+> link para o arquivo Docker Compose
+> https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-docker.html
 
 ## Elasticsearch
 > Engine de search and analytics
