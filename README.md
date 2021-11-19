@@ -67,6 +67,20 @@
 
 </details>
 
+### Kibana Fundamentals Course | elastic.co
+
+#### Lesson 1: Introduction to Kibana
+
+#### Lesson 2: Visualizing Data
+
+
+#### Lesson 3: Discover
+
+> Kibana é mais do que uma ferramenta de visualização de dados. Kibana Discover permite que você faça consultas nos dados do elasticsearch e exportar os resultados para futuras análises.
+
+### Exploring and querying your data.
+Neste vídeo, apreendi sobre a estrutura do discover, KQL - a linguagem de consulta do Kibana, adicionar filtro à tabela dos documentos recentes, e exportação de resultados.
+
 ## Beats!
 > é uma plataforma gratuita e aberta para agentes de dados de finalidade única.
 
