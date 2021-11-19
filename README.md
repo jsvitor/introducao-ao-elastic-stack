@@ -24,6 +24,14 @@
 
 ### Elastic Search Indices
 
+  
+##### Data Lakes vs Data Warehoses
+  
+| Data Lakes | Data Warehouses |
+|--|--|
+|  |  |
+
+  
 </details>
 
 ## Logstash
