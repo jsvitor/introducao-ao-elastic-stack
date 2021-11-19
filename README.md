@@ -67,6 +67,9 @@
 
 </details>
 
+<details>
+    <summary>Resumos</summary>
+
 ### Kibana Fundamentals Course | elastic.co
 
 #### Lesson 1: Introduction to Kibana
@@ -85,6 +88,9 @@ Neste vídeo, aprendi sobre:
 - adicionar filtro à tabela dos documentos recentes e
 - exportação dos resultados.
 
+</details>
+
+  
 ## Beats!
 > é uma plataforma gratuita e aberta para agentes de dados de finalidade única.
 
