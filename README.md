@@ -40,7 +40,7 @@
 
 ## Logstash
 > Processador de dados através de pipelines que consegue receber, transformar e enviar dados simultaneamente (incluindo ao elasticsearch)
-> É o motor de etl que permite de forma centralizada compor
+> É o motor de etl que permite de forma centralizada coleta, processamento e enriquecimento de todos os dados em tempo real
 
 <details>
     <summary>Características</summary>
