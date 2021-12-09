@@ -15,6 +15,7 @@
 
 ## Elasticsearch
 > Engine de search and analytics
+> É o motor central que permite realizar análises complexas em tempo real, busca, loggings
 <details>
     <summary>Características</summary>
   
@@ -39,6 +40,7 @@
 
 ## Logstash
 > Processador de dados através de pipelines que consegue receber, transformar e enviar dados simultaneamente (incluindo ao elasticsearch)
+> É o motor de etl que permite de forma centralizada compor
 
 <details>
     <summary>Características</summary>
@@ -107,8 +109,8 @@ Neste vídeo, aprendi sobre:
 > - Você pode construir seu próprio Beat
 </details>
 
-- [ ] Kibana
-- [ ] TSVB
+- [x] Kibana
+- [x] TSVB
 
 [Grok Patterns](https://github.com/hpcugent/logstash-patterns/blob/master/files/grok-patterns)
 
